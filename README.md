@@ -55,7 +55,7 @@ Built for security researchers, digital forensics analysts, and penetration test
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vision-dev1/BrowserSpy.git
+git clone https://github.com/visionxstack/BrowserSpy.git
 cd BrowserSpy
 
 # 2. Create and activate a virtual environment (recommended)
@@ -200,7 +200,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
   Vision KC
-- [Github](https://github.com/vision-dev1)
+- [Github](https://github.com/visionxstack)
 - [Portfolio](https://visionkc.com.np)
 
 ---
